@@ -10,6 +10,14 @@ Technologies used: React, Javascript, HTML, CSS
 ```sh
 npm install
 ```
+In order to use the Github API you need to supply your own credentials.  
+You can do this by creating a .env.local file in the project's root directory and adding the following code:
+
+```
+REACT_APP_GITHUB_CLIENT_ID='your client id'  
+REACT_APP_GITHUB_CLIENT_SECRET='your client secret'
+```
+
 ## Usage
 ```sh
 npm start
