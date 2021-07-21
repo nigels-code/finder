@@ -1,5 +1,7 @@
 # Finder
 
+*** This project is still in development, so the application doesn't currently work ***
+
 I wrote this while following Brad Traversy's "React Front to Back" course.
 
 A web application for searching and browsing Github repositories
