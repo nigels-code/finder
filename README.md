@@ -1,4 +1,4 @@
-# GitSearch
+# Finder
 
 I wrote this while following Brad Traversy's "React Front to Back" course.
 
