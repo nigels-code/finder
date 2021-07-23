@@ -6,7 +6,7 @@ A web application for searching and browsing Github repositories.
 
 Technologies used: React, Context API, Javascript, HTML, CSS.
 
-I have set up a CI/CD pipeline between Github and Netlify.
+I have set up a CI/CD pipeline between Github and Netlify.  
 Open <https://githubfinderxxx.netlify.app/> to see a production version of this project
 
 ## Installation
@@ -15,7 +15,7 @@ Open <https://githubfinderxxx.netlify.app/> to see a production version of this 
 npm install
 ```
 
-In order to use the Github API in your IDE you need to supply your own credentials.
+In order to use the Github API in your IDE you need to supply your own credentials.  
 You can do this by creating a .env.local file in the project's root directory and adding the following code:
 
 ```sh
