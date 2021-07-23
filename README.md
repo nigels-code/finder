@@ -4,7 +4,7 @@ I wrote this while following Brad Traversy's "React Front to Back" course.
 
 A web application for searching and browsing Github repositories
 
-Technologies used: React, Javascript, HTML, CSS
+Technologies used: React, Context API, Javascript, HTML, CSS
 
 Open <https://githubfinderxxx.netlify.app/> to see a production version of this project
 
@@ -14,7 +14,7 @@ Open <https://githubfinderxxx.netlify.app/> to see a production version of this 
 npm install
 ```
 
-In order to use the Github API you need to supply your own credentials.  
+In order to use the Github API in your IDE you need to supply your own credentials.  
 You can do this by creating a .env.local file in the project's root directory and adding the following code:
 
 ```
