@@ -1,12 +1,12 @@
 # Finder
 
-*** This project is still in development, so the application doesn't currently work ***
-
 I wrote this while following Brad Traversy's "React Front to Back" course.
 
 A web application for searching and browsing Github repositories
 
 Technologies used: React, Javascript, HTML, CSS
+
+Open <https://githubfinderxxx.netlify.app/> to see a production version of this project
 
 ## Installation
 
@@ -29,4 +29,4 @@ npm start
 ```
 
 This runs the application in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in a browser.
+Open <http://localhost:3000> to view it in a browser.
