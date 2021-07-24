@@ -7,7 +7,7 @@ A web application for searching and browsing Github repositories.
 Technologies used: React, Context API, Javascript, HTML, CSS.
 
 I have set up a CI/CD pipeline between Github and Netlify.  
-Open <https://githubfinderxx.netlify.app/> to see a production version of this project
+Open <https://githubfinderxx.netlify.app/> to see this project in production.
 
 ## Installation
 
