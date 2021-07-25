@@ -15,8 +15,7 @@ Open <https://githubfinderxx.netlify.app/> to see this project in production.
 npm install
 ```
 
-In order to use the Github API in your IDE you need to supply your own credentials.  
-You can do this by creating a .env.local file in the project's root directory and adding the following code:
+In order to use the Github API in development mode you need to supply your own credentials. You can do this by creating a `.env.local` file in the project's root directory and adding the following code:
 
 ```sh
 REACT_APP_GITHUB_CLIENT_ID='your client id'
