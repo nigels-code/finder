@@ -2,9 +2,7 @@
 
 I wrote this while following Brad Traversy's "React Front to Back" course.
 
-A web application for searching and browsing Github repositories.
-
-Technologies used: React, Context API, Javascript, HTML, CSS.
+A Single Page Application developed with React, JavaScript, Context API, HTML, CSS
 
 I have connected this repo to Netlify.  
 Open <https://githubfinderxx.netlify.app/> to see the project in production.
